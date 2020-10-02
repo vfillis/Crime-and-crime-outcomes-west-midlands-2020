@@ -2,7 +2,7 @@
 
 For my story, I wanted to look at the crimes that have been committed in the West Midlands between 1 January 2020 and 31 August 2020. I was wondering how many of them have already been solved and what the outcomes were. 
 
-I downloaded the data at https://data.police.uk/data/ (select the date range and tick "West Midlands" as force as well as the data sets "crime data" and "outcomes data"). 
+I downloaded the data at [data.police.uk](https://data.police.uk/data/) (select the date range and tick "West Midlands" as force as well as the data sets "crime data" and "outcomes data"). 
 
 For every month and selected data set you'll get a seperate .csv file. At first you have to put them all in two Excel-sheets: one for the crimes and one for the crime outcomes (the files have a column in which the date is stored, so you still know in which month the crime was committed/ the outcome was published). I named them "crimes-2020-west-midlands" and "outcomes-2020-west-midlands". 
 
