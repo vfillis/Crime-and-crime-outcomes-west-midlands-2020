@@ -20,6 +20,6 @@ You will see that for every crime of "Anti-social behaviour" there is no outcome
 
 Then, take a look at the remaining "#N/A"s again. The column "Last outcome category" gives information about the investigation status. There are two types left: "Status update unavailable" and "Under investigation". Rename the "#N/A"s accordingly. 
 
-Using the **COUNTIF** function you can now count how many times each outcome type occurs. 
+You can work out which outcome type occours most often by using a **pivot table** and placing the field "outcome type" in both rows and value box. You could also use the **COUNTIF** function. 
 
 You can read the story [here](https://medium.com/p/b725b3d7ba6f/edit). 
